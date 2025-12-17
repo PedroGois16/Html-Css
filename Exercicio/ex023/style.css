@@ -1,0 +1,44 @@
+h1{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    box-shadow: 2px 3px 7px 0px rgba(0, 0, 0, 0.348);
+}
+nav{
+   background-color: crimson;
+   padding: 30px;
+   box-shadow: 2px 3px 7px 0px rgba(0, 0, 0, 0.348);
+}
+   
+
+nav > a{
+   margin-right: 20px;
+   font-size: 25px;
+   font: bold;
+   color: white;
+   text-decoration: none;
+   text-align: center;
+   border-radius: 10px;
+}
+
+nav a:hover{
+   :
+}
+
+h2.principal{
+     outline: auto;
+    color: crimson;
+    text-align: center;
+}
+main > p{
+    outline: auto;
+    color: crimson;
+    border-radius: 10px;
+    padding: 20px;
+    text-indent: 20px;
+    text-align: justify;
+}
+   
+
+    
+    
