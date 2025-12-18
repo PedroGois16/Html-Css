@@ -3,4 +3,4 @@ Curso De Html e Css
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!.
 
-<a href="https://pedrogois16.github.io/Html-Css/Exercicio/EX00/index.html" target="_blank" rel="external">executar exercicio 1</a>
+ <p><a href="https://pedrogois16.github.io/Html-Css/Exercicio/EX00/index.html" target="_blank" rel="external">executar exercicio 1</a> </p>
